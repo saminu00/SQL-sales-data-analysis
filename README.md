@@ -9,7 +9,7 @@ This project focuses on analyzing sales data using SQL to extract valuable insig
 - Evaluate regional sales performance.
 - Present findings using structured SQL queries and data exports.
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **Database**: SQL Server
 - **Query Language**: SQL (Joins, Aggregate Functions, Subqueries, CTEs)
 - **Version Control**: Git & GitHub
